@@ -47,8 +47,8 @@
             "class": "elementaryos"
         },
         {
-            "key": "Federa-",
-            "class": "federa"
+            "key": "Fedora-",
+            "class": "fedora"
         },
         {
             "key": "Ghost",
@@ -63,7 +63,7 @@
             "class": "macosx"
         },
         {
-            "key": "openSUSU-",
+            "key": "openSUSE-",
             "class": "opensuse"
         },
         {
